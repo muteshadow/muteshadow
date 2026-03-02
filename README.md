@@ -21,7 +21,7 @@ Ingeniería de Software (Especialidad 121)
 
 📊 **Aquí puedes ver los lenguajes con los que trabajo actualmente:**
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muteshadow&layout=compact&langs_count=6&theme=transparent)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muteshadow&layout=compact&langs_count=5&theme=transparent)
 
 <!-- ![Language stats](./stats.svg) -->
 
