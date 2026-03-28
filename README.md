@@ -28,7 +28,7 @@ Ingeniería de Software (Especialidad 121)
 ## 📂 Mis trabajos
 <table align="left">
   <tr>
-    <td width="300">
+    <td width="280">
       <h3 align="center">KP BTI Website</h3>
       <!-- <p align="center">by Wikipedia</p> -->
       <img src="https://github.com/muteshadow/kpbti-website/blob/main/img/kpbti%20preview.png" width="100%">
@@ -46,8 +46,8 @@ Ingeniería de Software (Especialidad 121)
 
 <table align="left">
   <tr>
-    <td width="300">
-      <h3 align="center">Hazbin Hotel - Landing Page</h3>
+    <td width="280">
+      <h3 align="center">Hazbin Hotel Landing</h3>
       <!-- <p align="center">by Wikipedia</p> -->
       <img src="https://github.com/muteshadow/Hazbin_hotel/blob/main/img/Hazbin%20hotel%20preview.png" width="100%">
       <!-- <p>Proyecto académico de diseño y maquetación web inspirado en la serie Hazbin Hotel.</p> -->
@@ -65,7 +65,7 @@ Ingeniería de Software (Especialidad 121)
 
 <table align="left">
   <tr>
-    <td width="300">
+    <td width="280">
       <h3 align="center">Magic Cat Academy</h3>
       <!-- <p align="center">by Wikipedia</p> -->
       <img src="https://github.com/muteshadow/magic-cat-academy-fan-page/blob/main/img/Magic%20Cat%20Academy%20preview.png" width="100%">
