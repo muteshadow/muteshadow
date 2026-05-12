@@ -29,7 +29,7 @@ Ingeniería de Software (Especialidad 121)
 <table align="left">
   <tr>
     <td width="280">
-      <h3 align="center">KP BTI Website</h3>
+      <a href="https://github.com/muteshadow/kpbti-website"><h3 align="center">KP BTI Website</h3></a>
       <!-- <p align="center">by Wikipedia</p> -->
       <img src="https://github.com/muteshadow/kpbti-website/blob/main/img/kpbti%20preview.png" width="100%">
       <!-- <p>Вебсайт комунального підприємства (БТІ), розроблений на PHP з використанням бази даних MySQL, з підтримкою demo-mode та статичної версії для GitHub Pages.</p> -->
@@ -47,7 +47,7 @@ Ingeniería de Software (Especialidad 121)
 <table align="left">
   <tr>
     <td width="280">
-      <h3 align="center">Hazbin Hotel Landing</h3>
+      <a href="https://github.com/muteshadow/Hazbin_hotel"><h3 align="center">Hazbin Hotel Landing</h3></a>
       <!-- <p align="center">by Wikipedia</p> -->
       <img src="https://github.com/muteshadow/Hazbin_hotel/blob/main/img/Hazbin%20hotel%20preview.png" width="100%">
       <!-- <p>Proyecto académico de diseño y maquetación web inspirado en la serie Hazbin Hotel.</p> -->
@@ -66,7 +66,7 @@ Ingeniería de Software (Especialidad 121)
 <table align="left">
   <tr>
     <td width="280">
-      <h3 align="center">Magic Cat Academy</h3>
+      <a href="https://github.com/muteshadow/magic-cat-academy-fan-page"><h3 align="center">Magic Cat Academy</h3></a>
       <!-- <p align="center">by Wikipedia</p> -->
       <img src="https://github.com/muteshadow/magic-cat-academy-fan-page/blob/main/img/Magic%20Cat%20Academy%20preview.png" width="100%">
       <!-- <p>This is a responsive fan-made web page inspired by the Google Doodle.</p> -->
